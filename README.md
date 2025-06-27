@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpedropraf
+- 🥸👍 Hi, I’m @jpedropraf
 - Etec Sales Gomes tatuí - Desenvolvimento de Sistemas Mtec
 - js developer
 <!---

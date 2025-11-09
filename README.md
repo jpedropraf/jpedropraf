@@ -1,7 +1,6 @@
 - 🥸👍 Hi, I’m @jpedropraf
-- backend 👀
 - Etec Sales Gomes tatuí - Desenvolvimento de Sistemas Mtec
-- tecnologies : django , sql , javascript , html , bootstrap , php , js 
+- technologies : django , sql , javascript , html , bootstrap , php , js 
 <!---
 jpedropraf/jpedropraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

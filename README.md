@@ -40,14 +40,14 @@
 
   ### 🧰 Favorite Tools
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,github" />
+    <img src="https://skillicons.dev/icons?i=python,django,github,figma" />
   </p>
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
 
   ### ⚙️ Technologies that I am using or have used
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,express,js,html,css,bootstrap,php,sqlite,postgresql,npm,git" />
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,express,js,html,css,bootstrap,php,sqlite,postgresql,npm,github,git,jest,figma" />
   </p>
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />

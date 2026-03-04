@@ -23,8 +23,8 @@
 
   <p align="center">
     💻 <strong>Desenvolvimento de Sistemas – Etec Sales Gomes (Tatuí)</strong><br/>
-    💻 <strong>Analise e Desenvolvimento de Sistemas – Fatec Prof. Wilson Roberto Ribeiro de Camargo(Tatuí)</strong>
-    🎲 <strong>Starting to explore data tools and backend technologies</strong><br/>
+    💻 <strong>Analise e Desenvolvimento de Sistemas – Fatec Prof. Wilson Roberto Ribeiro de Camargo(Tatuí)</strong><br/>
+    🎲 <strong>Starting to explore data tools and backend technologies</strong>
     
   </p>
 

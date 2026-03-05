@@ -65,13 +65,5 @@
   </p>
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
-
-  ### 📊 GitHub Stats
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jpedropraf&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  </p>
-
-  <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
-
   </div>
 </div>

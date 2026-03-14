@@ -35,7 +35,8 @@
     <strong>POO</strong> • 
     <strong>Web Development</strong> • 
     <strong>APIs</strong> • 
-    <strong>Database Modeling</strong>
+    <strong>Database Modeling</strong>•
+    <strong>HTTP Protocols</strong>
   </p>
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />

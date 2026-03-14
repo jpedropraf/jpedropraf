@@ -49,7 +49,7 @@
 
   ### ⚙️ Technologies that I am using or have used
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,express,js,php,sqlite,postgresql,java,github,docker,prisma,figma" />
+    <img src="https://skillicons.dev/icons?i=java,,php,django,express,react-native,react,mysql,sqlite,postgresql,prisma,docker,figma" />
   </p>
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />

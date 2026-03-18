@@ -8,7 +8,7 @@
   box-shadow: 0 0 20px rgba(0,0,0,0.3);
 ">
 
-  <!-- Glassmorphism card -->
+
   <div style="
     background: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(10px);
@@ -20,7 +20,7 @@
   ">
 
   <h1 align="center">👋 Hello, I'm <span style="color:#00bfff;">João P. Prado</span></h1>
-
+  
   <p align="center">
     💻 <strong>Desenvolvimento de Sistemas – Etec Sales Gomes (Tatuí)</strong><br/>
     💻 <strong>Analise e Desenvolvimento de Sistemas – Fatec Prof. Wilson Roberto Ribeiro de Camargo(Tatuí)</strong><br/>
@@ -48,13 +48,34 @@
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
 
-  ### ⚙️ Technologies that I am using or have used
+  ### ⚙️ Technologies that used
+
+ ### Web
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,php,django,express,react,mysql,sqlite,postgresql,prisma,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=react,figma" />
+  </p> 
+  
+  ### Api
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=spring,django,nest" />
   </p>
+
+ ### Database and Orm
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,prisma" />
+  </a>
+</p>
+
+### Languages
+ <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,php,python,nodejs" />
+  </p>
+  
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
 
+  
   ### 🌐 Connect with Me
   <p align="center">
     <a href="https://github.com/jpedropraf" target="_blank">
@@ -65,6 +86,4 @@
     </a>
   </p>
 
-  <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
-  </div>
-</div>
+

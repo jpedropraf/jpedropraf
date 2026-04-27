@@ -20,35 +20,26 @@
   ">
 
   <h1 align="center">👋 Hello, I'm <span style="color:#00bfff;">João P. Prado</span></h1>
-  
+
+
+  ### Academic and Technical Background
   <p align="center">
-    💻 <strong>Desenvolvimento de Sistemas – Etec Sales Gomes (Tatuí)</strong><br/>
-    💻 <strong>Analise e Desenvolvimento de Sistemas – Fatec Prof. Wilson Roberto Ribeiro de Camargo(Tatuí)</strong><br/>
-    🎲 <strong>Starting to explore data tools and backend technologies</strong>
-    
+    💻 <strong>Technical Degree in Systems Development – Etec Sales Gomes (Tatuí)</strong><br/>
+    💻 <strong>Associate Degree in Systems Analysis and Development– Fatec Prof. Wilson Roberto Ribeiro de Camargo(Tatuí)</strong><br/
   </p>
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
 
-  ### 📘 Knowledges
+  ### 📘 Core Capabilities
   <p align="center">
-    <strong>POO</strong> • 
     <strong>Web Development</strong> • 
     <strong>APIs</strong> • 
-    <strong>Database Modeling</strong>•
-    <strong>HTTP Protocols</strong>
+    <strong>Relational Databases </strong>•
   </p>
 
   <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
 
-  ### 🧰 Favorite Tools
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,java,github,docker" />
-  </p>
-
-  <hr style="border: 1px solid #00bfff; width: 80%; margin: 25px auto;" />
-
-  ### ⚙️ Technologies that used
+  ### ⚙️ Tech Stack
 
  ### Web
   <p align="center">
